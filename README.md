@@ -1,7 +1,8 @@
 Role Name
 =========
 
-This role can be used to deploy 2 EC2s on Ubuntu. This can be called within another playbook for faster deploying of EC2s.
+This role can be used to deploy 2 EC2s on Ubuntu. This can be called within another playbook for faster deploying of EC2s. Clone this repository to the default role directory /etc/ansible/roles
+
  - Features:
     - Fully configurable and compatible with AWS
     - Flexible and feature rich with easy customization of roles
