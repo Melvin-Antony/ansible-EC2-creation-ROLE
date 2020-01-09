@@ -1,0 +1,8 @@
+---
+aws_access_key: aws accesskey
+aws_secret_key: aws secret key
+region: us-east-2
+instance_type: t2.micro
+ami: ami-0d5d9d301c853a04a
+keypair: new-server
+hoststring: "ansible_ssh_user=ec2-user ansible_ssh_private_key_file=server-private.pem"
